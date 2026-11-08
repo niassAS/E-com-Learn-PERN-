@@ -1,5 +1,5 @@
-import { create } from "zustand";
-import axios from "axios";
+import { create } from "zustand"; // Zustand est une petite bibliothèque de gestion d’état pour React.
+import axios from "axios"; // C'est une bibliothèque JavaScript qui sert à faire des requêtes HTTP
 import toast from "react-hot-toast";
 
 // base url will be dynamic depending on the environment
